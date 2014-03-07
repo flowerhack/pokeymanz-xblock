@@ -1,0 +1,9 @@
+/* CSS for PokeymanzXBlock */
+
+.pokeymanz_block p {
+    cursor: pointer;
+}
+
+#chat_embed {
+	float: right;
+}
